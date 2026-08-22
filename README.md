@@ -1,13 +1,37 @@
-# About Me 
+# About Me
 ---
-## Kzinga Jimenez
+## Kzinga K. A. Jimenez
 
-### Writer | Author | UX Developer/Researcher | Educator 
+Writer - UX Developer/Researcher - Educator 
 
-I am a writer, published author, UX developer/researcher, and adult educator with over a decade of experience across library and archival work, education, professional writing, and digital design.
+**[linktr.ee/kzingajimenez](https://linktr.ee/kzingajimenez) | [kzingajimenez.com](https://kzingajimenez.com/)** 
 
-My entry into digital systems began in libraries, where nearly a decade of handling collections and archival materials gave me a deep understanding of how information gets organized, surfaced, and made accessible to real people. As a UX developer and researcher I conduct methodologies to inform overall design and development decisions, helping to shape functional, accessible human-centered interfaces. 
+---
+Writer, system architect, and educator with over a decade of experience across cultural institutions, adult ed-tech, and digital humanities. 
 
-> Being a writer informs everything I create. I bring clarity, storytelling, and a deep respect for language to each carefully chosen project. My approach is mission-driven, community-centered, and highly human-focused. This is driven by my avid belief that technology should serve people; particularly communities that have been historically overlooked by mainstream platforms. 
+---
+### **Core Competencies**
+* Professional Writing / Content Strategy 
+* User Research / Information Architecture
+* Front-End Infrastructure 
+* Instruction-Tuned Prompt Engineering 
+* Human-In-The-Loop Refinement
+* Data Stewardship / Collections Management
+* Curriculum Design / Adult Learning
+* World-Building / Constructed Languages
 
-Open to projects/collaborations aligned with cultural preservation, open access, and community-centered design. [Book a consultation here!](https://tr.ee/wPEYONVBjI)
+| Project | Type | Focus | Status |
+| :--- | :--- | :--- | :--- |
+| **NYPL Collections Case Study** | Case Study | Information architecture, data management | Complete |
+| **Ed-Tech Pain Point Observations** | Case Study | Ed-tech, usability observation, adult learning | Complete |
+| **ESL Vocabulary Flashcards** | Web App (LLM-assisted) | Adult learners, accessibility, ed-tech | Prototype |
+| **GitHub Portfolio Architecture** | IA Project | Content audit, hierarchy, taxonomy | Complete |
+| **Original Fiction Universe** | Creative / Digital Humanities | Long-form fiction, constructed language development | In Progress - Private |
+| **Digital Infrastructure** | Web App (coded from scratch) / Case Study | Cultural preservation, open-access discovery | In Development - Private |
+
+### **A Note On My Process**
+My portfolio spans multiple modes and phases of building/structuring. NYPL and Ed-Tech field notes represent foundational research and systems thinking. ESL Vocabulary Flashcards is an LLM-assisted prototype built through intentional prompt engineering, iterative refinement, and human-in-the-loop feedback. GitHub Portfolio Architecture applies IA thinking to my own digital presence. The Original Fiction Universe is a long-form creative and linguistic project currently in private development including systematic constructed language work rooted in cultural world-building and storytelling. The Digital Infrastructure Project & Case Study represent my from-scratch development path, where I apply the same design thinking to custom codebases. 
+
+---
+### **Contact**
+Open to projects/collaborations aligned with cultural preservation, open access, and community-centered design. [Book a consultation.](https://linktr.ee/kzingajimenez)
