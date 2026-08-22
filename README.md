@@ -2,7 +2,7 @@
 ---
 ## Kzinga K. A. Jimenez
 
-Writer - UX Developer/Researcher - Educator 
+### Writer - UX Developer/Researcher - Educator 
 
 **[linktr.ee/kzingajimenez](https://linktr.ee/kzingajimenez) | [kzingajimenez.com](https://kzingajimenez.com/)** 
 
