@@ -23,11 +23,11 @@ Writer, system architect, and educator with over a decade of experience across c
 | Project | Type | Focus | Status |
 | :--- | :--- | :--- | :--- |
 | **Public Library Collections** | Case Study | Information architecture, data management | Complete |
-| **Text Editor UX/UI** | Case Study | Interface design, developer tools, comparative UX analysis | Complete 
-| **Ed-Tech Pain Point Observations** | Case Study | Ed-tech, usability observation, adult learning | Complete |
+| **Text Editor UX/UI** | Case Study | Interface design, developer tools, comparative UX analysis | Complete | 
+| **Ed-Tech Pain Point Observations** | Case Study | Ed-tech, usability observation, adult learning | Ongoing |
 | **ESL Vocabulary Flashcards** | Infrastructure (LLM-assisted prototype) | Adult learners, accessibility, ed-tech | Complete |
-| **GitHub Portfolio Architecture** | IA Project | Content audit, hierarchy, taxonomy | Complete/Ongoing |
-| **Original Fiction Universe** | Creative / Digital Humanities | Long-form fiction, constructed language development | In Progress |
+| **GitHub Portfolio Architecture** | IA Project | Content audit, hierarchy, taxonomy | Ongoing |
+| **Original Fiction Universe** | Creative / Digital Humanities | Long-form fiction, constructed language development | In Development |
 | **LCA1.0** | Infrastructure (coded from scratch) / Case Study | Cultural preservation, open-access discovery | In Development |
 
 ### **A Note On My Process**
