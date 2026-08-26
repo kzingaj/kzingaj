@@ -38,9 +38,10 @@ Organization & Documentation:
 - Google Drive
   
 Research & Refinement:
-- Instruction-based LLMs 
-- Search Engines 
-- Online Digital Databases
+- Instruction-tuned LLMs 
+- Search Engines
+- Tally Forms
+- Online Databases
   
 Version Control:
 - GitHub
