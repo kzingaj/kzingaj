@@ -27,7 +27,7 @@ Writer, system architect, and educator with over a decade of experience across c
 | **Wireframing / Prototyping** | Figma, Instruction-tuned LLMs |
 | **Development** | Sublime Text, HTML Creator Pro, Spck Editor |
 | **Organization / Documentation** | Notion, JotterPad, Ellipsus, Google Workspace |
-| **Research / Refinement** | Search Engines, Instruction-tuned LLMs, Tally Forms |
+| **Research / Refinement** | Search Engines, Instruction-tuned LLMs, Tally |
 | **Version Control** | GitHub |
 
 ---
