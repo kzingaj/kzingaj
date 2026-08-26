@@ -19,6 +19,33 @@ Writer, system architect, and educator with over a decade of experience across c
 * Curriculum Design / Adult Learning
 * World-Building / Constructed Languages
 
+---
+### Tools & Stack
+
+Here's what I work with across design, development, writing, and research.
+
+Design & Prototyping:
+- Figma
+Development:
+- Sublime Text
+- HTML Creator Pro
+- Spck Editor
+- VS Code
+Organization & Documentation:
+- Notion
+- JotterPad
+- Ellipsus
+- Google Drive
+Research & Refinement:
+- Instruction-based LLMs 
+- Search Engines 
+- Online Digital Databases 
+Version Control:
+- GitHub
+
+---
+### Projects
+
 | Project | Type | Focus | Status |
 | :--- | :--- | :--- | :--- |
 | **Public Library Collections** | Case Study | Information architecture, data management | Complete |
