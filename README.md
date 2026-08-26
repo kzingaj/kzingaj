@@ -20,31 +20,15 @@ Writer, system architect, and educator with over a decade of experience across c
 * World-Building / Constructed Languages
 
 ---
-### Tools & Stack
+### **Tools & Stack**
 
-Design & Prototyping:
-- Figma
-  
-Development:
-- Sublime Text
-- HTML Creator Pro
-- Spck Editor
-- VS Code
-
-Organization & Documentation:
-- Notion
-- JotterPad
-- Ellipsus
-- Google Drive
-  
-Research & Refinement:
-- Instruction-tuned LLMs 
-- Search Engines
-- Tally Forms
-- Online Databases
-  
-Version Control:
-- GitHub
+| **Association** | **Tool** |
+| :--- | :--- | 
+| **Wireframing / Prototyping** | Figma, Instruction-tuned LLMs |
+| **Development** | Sublime Text, HTML Creator Pro, Spck Editor |
+| **Organization / Documentation** | Notion, JotterPad, Ellipsus, Google Workspace |
+| **Research / Refinement** | Search Englines, Instruction-tuned LLMs, Tally Forms |
+| **Version Control** | GitHub |
 
 ---
 ### Projects
