@@ -39,7 +39,7 @@ Writer, system architect, and educator with over a decade of experience across c
 | **Text Editor UX/UI** | Case Study | Interface design, developer tools, comparative UX analysis | Ongoing | 
 | **ESL Vocabulary Flashcards** | Infrastructure (LLM-assisted prototype) | Adult learners, accessibility, ed-tech | Complete |
 | **Original Fiction Universe** | Creative / Digital Humanities | Long-form fiction, constructed language development | In Development |
-| **LCA1.0** | Infrastructure (coded from scratch) / Case Study | Cultural preservation, permacomputing, open-access discovery | In Development |
+| **LCA1.0** | Infrastructure (coded from scratch) / Case Study | Cultural preservation, open-access discovery | In Development |
 
 ### **A Note On My Process**
 My portfolio spans multiple modes and phases of building/structuring. Public Library Collections represents foundational research and systems thinking. The Text Editor Case Study documents my personal process and field notes pertaining to the interfaces and overall design structures of various code editors and their relatability to efficient user flows. ESL Vocabulary Flashcards is an LLM-assisted prototype built through intentional prompt engineering, iterative refinement, and human-in-the-loop feedback. The Original Fiction Universe is a long-form, creative and linguistic project currently in progress; includes systematic, constructed language work rooted in cultural world-building and storytelling. LCA1.0 represents my from-scratch development path, where I apply the same design thinking to custom codebases in this original project centered on cultural preservation and decolonial shifting.  
